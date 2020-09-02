@@ -8,5 +8,5 @@ transition: zoom
 
 - Response:
 ```
-{"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%2FAAAAAAAAAAAAAAAAAAAA%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}
+{"token_type":"bearer","access_token":"AAAA..."}
 ```
